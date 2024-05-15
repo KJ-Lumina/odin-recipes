@@ -1,0 +1,54 @@
+body {
+    background-color: antiquewhite;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/triangles_pattern.png);
+}
+
+.recipe_title {
+    font-size: 50px;
+    padding-left: 425px;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.welcome_message {
+    font-size: 15px;
+    font-family: sans-serif;
+    padding-left: 25px;
+}
+
+.main_image_tag {
+    margin-top: 0px;
+}
+
+.main_image {
+    padding-left: 250px;
+}
+
+.main_image_pork {
+    padding-left: 375px;
+}
+
+.main_title {
+    font-family: sans-serif;
+    font-size: 50px;
+    padding-left: 25px;
+    color: darkorange;
+}
+
+.description {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.recipe_selection {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.list_style {
+    font-family: sans-serif;
+}
